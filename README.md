@@ -1,2 +1,6 @@
-# AdjustableLoad
+# Adjustable Load
 A current sink that emulates different loads to test power supply or other load dependent circuits
+
+---
+### To Do:
+- Set up all the files
